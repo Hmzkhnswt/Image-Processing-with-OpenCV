@@ -2,6 +2,8 @@
 
 Welcome to the Image Processing with OpenCV repository! This project focuses on exploring various image manipulation and analysis techniques using the OpenCV library in Python.
 
+![openCV](https://github.com/Hmzkhnswt/Image-Processing-with-OpenCV/assets/95092387/c8769de0-d2ac-46a0-9fab-25866e945d45)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
